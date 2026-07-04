@@ -1,0 +1,24 @@
+{
+  "name": "tutorial-harness",
+  "version": "0.0.1",
+  "description": "Reserved: governance runtime CLI for agent-driven, book-length tutorial production. Placeholder release — the real package ships as tutorial-harness 3.0.0.",
+  "keywords": [
+    "tutorial",
+    "governance",
+    "agent-skills",
+    "large-tutorial-creator"
+  ],
+  "author": "automann",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/automann/tutorial-harness"
+  },
+  "homepage": "https://github.com/automann/tutorial-harness#readme",
+  "files": [
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
